@@ -3,8 +3,8 @@
 #include <string.h>
 #include <stdint.h>
 
-#define NOMBRE_FS "fs-id_estudiante.bin"
-#define TAM_FS (1024 * 1024)
+#define NOMBRE_FS "fs-10260278.bin"
+#define TAM_FS 1048576
 #define TAM_BLOQUE 512
 #define TAM_SUPERBLOQUE 512
 #define TAM_TABLA_INODOS 4096
